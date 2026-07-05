@@ -7,7 +7,7 @@ Dashboard Preview
 
 <img width="1188" height="657" alt="Brazil E-Commerce Executive Sales Dashboard" src="https://github.com/user-attachments/assets/ab6e2dcc-e700-400c-a3f3-93518f14a17b" />
 
-![Dashboard](Dashboard.png)
+
 Business Questions Answered
 What is the total revenue generated?
 How many orders and customers were served?
